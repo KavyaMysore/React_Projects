@@ -1,0 +1,25 @@
+.promain{
+    height: 520px;
+    width: 390px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 3px 3px grey;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+.promain img{
+    margin-left: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.lastbuts{
+    margin-left: 180px;
+}
+
+.det{
+    margin-left: 10px;
+}
+

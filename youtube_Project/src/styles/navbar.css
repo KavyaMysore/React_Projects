@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search input{
+    border: 1px solid lightgray;
+    height: 30px;
+    width: 380px;
+    border-radius: 20px;
+    padding-left: 15px;
+    outline: none;
+}
+
+.search input:focus{
+    border-color: blue;
+}
+
+.options button{
+    border: 1px solid lightgray;
+    padding: 7px 16px;
+    border-radius: 15px;
+    background-color: white;
+    color: blue;
+    margin: 0px 5px;
+}
+
+.options button:hover{
+    background-color: lightblue;
+    cursor: pointer;
+    border: none;
+}

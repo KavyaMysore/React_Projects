@@ -1,0 +1,20 @@
+.mainmovie{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main{
+    margin: 10px 20px 10px 20px;
+    margin-left: 70px;
+}
+
+#title{
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+#title1{
+    margin-left: 20px;
+}

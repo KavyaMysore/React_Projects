@@ -1,0 +1,24 @@
+.addingbooks{
+    /* margin: 0 auto; */
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+.inp{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    border-color: cornflowerblue;
+}
+
+.head{
+    /* margin-bottom: 50px; */
+    top: 70px;
+    left: 650px;
+    font-style: italic;
+}
+
+.bu{
+    background-color: cornflowerblue;
+    color: white;
+}

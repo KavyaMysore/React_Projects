@@ -1,0 +1,19 @@
+.mnav{
+    height: 50px;
+    width: 100%;
+    background-color: cadetblue;
+    display: flex;
+}
+
+.links{
+    margin-left: 1000px;
+}
+
+.link{
+   /* margin-top: 0px; */
+   padding: 30px ;
+   margin-top: 30px;
+   text-decoration: none;
+   color: white;
+   font-size: larger;
+}

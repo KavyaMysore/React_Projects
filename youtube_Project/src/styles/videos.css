@@ -1,0 +1,25 @@
+.videos_Logic{
+    display: grid;
+     grid-template-columns: auto auto auto;
+     margin-left: 110px;
+     margin-top: 30px;
+}
+
+.details{
+    display: flex;
+}
+
+.thumbnail img{
+    border-radius: 5%;
+}
+
+.channelicon img{
+    border-radius: 50%;
+}
+
+.view{
+    padding: 5px 5px;
+    color: rgb(86, 85, 85);
+    font-size: small;
+}
+

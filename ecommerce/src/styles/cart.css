@@ -1,0 +1,17 @@
+.fav_book{
+    width: 270px;
+   box-shadow: 2px 2px 10px gray;
+   padding: 20px 0px 0px 20px;
+}
+.fav_book img{
+    height: 200px;
+    width: 250px;
+}
+.pruthvi{
+    width: 450px;
+    /* display: grid;
+    grid-template-columns: auto auto auto auto; */
+    margin-top: 20px;
+    gap: 30px;
+    margin-left: 180px;
+}

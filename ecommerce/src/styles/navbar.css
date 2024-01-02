@@ -1,0 +1,32 @@
+.mainnav{
+    /* display: flex; */
+    height: 50px;
+    width: 100%;
+    display: flex;
+    background-color: rgb(88, 58, 88);
+    color: white;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 5px 5px 5px 5px;
+    /* margin-top: 30px; */
+}
+
+.prod{
+    margin-top: 0px;
+    margin-left: 40px;
+}
+
+.linksss{
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 40px;
+    margin-right: 190px;
+    /* padding-left: 30px; */
+    /* justify-content: space-between; */
+
+}
+
+.link{
+    padding-left: 50px;
+    margin-top: 10px;
+}

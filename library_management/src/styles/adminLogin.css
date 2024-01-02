@@ -1,0 +1,45 @@
+.adminmain{
+    height: 250px;
+    width: 450px;
+    background-color: rgb(195, 160, 227);
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px gray;
+}
+/* .adminEmail{
+    margin-top: 50px;
+    top: 100px;
+    margin-left: 50px;
+    height: 50px;
+    width: 50px;
+} */
+/* .adminPassword{
+    margin-left: 50px;
+} */
+
+.in1{
+    margin-top: 100px;
+    margin-left: 110px;
+    height: 30px;
+    width: 230px;
+    border-radius: 20px;
+    /* border-color: white; */
+}
+
+.in2{
+    margin-top: 15px;
+    margin-left: 110px;
+    height: 30px;
+    width: 230px;
+    border-radius: 20px;
+
+}
+
+.bt{
+ margin-top: 15px;
+ margin-left: 180px;
+ height: 30px;
+ width: 100px;
+ background-color: greenyellow;
+ color: black;
+ border-radius: 20px;
+}
