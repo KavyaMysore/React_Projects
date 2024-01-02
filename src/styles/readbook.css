@@ -1,0 +1,21 @@
+.mainnn{
+    display: flex;
+}
+
+.tit{
+margin-left: 0px;
+}
+
+.descript{
+    margin-top: 50px;
+}
+
+.back{
+    height: 30px;
+    width: 100px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 400px;
+    text-decoration: none;
+    background-color: black;
+}
