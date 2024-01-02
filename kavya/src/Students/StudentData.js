@@ -1,1 +1,0 @@
-export let stddata=["Sharath","Kavya","Vidya","Rachana","DontKnow"]
